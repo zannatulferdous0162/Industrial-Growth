@@ -8,7 +8,7 @@ const Card = () => {
     const [loading,setLoading]=useState(true)
     useEffect(()=>{
         axios.get('https://assainment-10-server-gamma.vercel.app/products')
-        .then(data=>{
+        .then(data=>
             console.log(data.data)
             setDatas(data.data)
             setLoading(false)
