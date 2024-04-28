@@ -10,7 +10,7 @@ const Banner = () => {
   return (
     <div className=''>
       <Swiper
-        spaceBetween={30}
+        spaceBetween={300}
         centeredSlides={true}
         autoplay={{
           delay: 2500,
