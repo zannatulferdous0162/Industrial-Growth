@@ -6,6 +6,8 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
+Description : The Jute Craft website features a variety of eco-friendly, handcrafted jute products, blending traditional craftsmanship with modern design. Users can explore and purchase unique items, ranging from home decor to fashion accessories, all made from sustainable materials. The site emphasizes cultural heritage and environmental sustainability, offering a seamless shopping experience for eco-conscious consumers.
+
 Use Technology :
 React Js
 Node Js 
